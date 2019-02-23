@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub!
 
-You can use the [editor on GitHub](https://github.com/Japwan/OldschoolRS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the links throughout this page to view the assortment of guides and tips I have gathered, collected, edited and mashed together in a some what, organised fashion.
+
+[editor on GitHub](https://github.com/Japwan/OldschoolRS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
